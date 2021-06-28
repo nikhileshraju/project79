@@ -1,0 +1,26 @@
+input{
+margin:10px;
+background: #f26500;
+}
+#submit {
+margin-top: 20px;
+margin-bottom: 20px;
+background : darkseagreen;
+color: #c2f200;
+}
+#sort_names {
+display:none;
+margin-bottom: 20px;
+margin-top: 20px;
+background : darkorchid;
+color: #c2f200;
+}
+body {
+background : #41e4f2;
+}
+h1 {
+color: chartreuse;
+}
+#display_name {
+color: crimson;
+}
